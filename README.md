@@ -24,4 +24,5 @@
  20. Filter: pip install django-filter > put it in setting installed apps and can make global or custom filter like pagination in settings.py.
  21. search filter
  
-
+Process to upload on git via terminal
+1. 
