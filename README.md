@@ -35,4 +35,5 @@ Process to upload on git via terminal
 8. git push origin main
 9. if some modification been made then again, git add .
 10. again, git commit -m "add your message"
-11.git puch origin main
+11. git push origin main
+12. if in branch change branch name git push origin <your branch name>
