@@ -24,7 +24,7 @@
  20. Filter: pip install django-filter > put it in setting installed apps and can make global or custom filter like pagination in settings.py.
  21. search filter
  
-Process to upload on git via terminal: https://docs.github.com/en/migrations/importing-source-code/using-the-command-line-to-import-source-code/adding-locally-hosted-code-to-github
+Process to upload on git via terminal
 1. create repo in github and copy the dire. from github web.
 2. in cmd in project folder open terminal and type: git init(it will create a git folder in project folder in master terminal)
 3. in command write git branch -m main(to convert into main)
@@ -33,7 +33,8 @@ Process to upload on git via terminal: https://docs.github.com/en/migrations/imp
 6. then, git add .
 7. again, git commit -m "add your message"
 8. git push origin main
-9. if some modification been made then again, git add .
-10. again, git commit -m "add your message"
-11. git push origin main
-12. if in branch change branch name git push origin <your branch name>
+   
+10. if some modification been made then again, git add .
+11. again, git commit -m "add your message"
+12. git push origin main
+13. if in branch change branch name git push origin <your branch name>
