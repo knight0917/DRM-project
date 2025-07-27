@@ -28,7 +28,7 @@ Process to upload on git via terminal: https://docs.github.com/en/migrations/imp
 1. create repo in github and copy the dire. from github web.
 2. in cmd in project folder open terminal and type: git init(it will create a git folder in project folder in master terminal)
 3. in command write git branch -m main(to convert into main)
-4. then, git remote add origin <link which you copied>
+4. then, git remote add origin "link which you copied"
 5. then, git commit -m "add your message"
 6. then, git add .
 7. again, git commit -m "add your message"
